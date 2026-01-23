@@ -1,0 +1,74 @@
+body{
+   background: rgb(193, 222, 231); 
+   font-size: medium;
+   color: rgb(32, 56, 56);
+   padding: 5px;
+   border: rgb(58, 94, 58), groove, 20px; 
+   margin: 30px;
+}
+
+h1{
+    background: whitesmoke;
+    color: #372222;
+    font-style: oblique;
+    padding: 10px;
+    font-size: 2.5rem;
+    inline-size: 400px;
+    border: 12px, wheat,solid;
+}
+
+p{
+    padding: 20px;
+    /* background: rgb(202, 151, 151);  */
+    margin: 35px;
+}
+
+ul{
+    background: whitesmoke;
+    color: #372222;
+    font-style: oblique;
+    padding: 20px;
+      margin: 35px;
+}
+
+ol{
+    padding: 20px;
+    background: whitesmoke;
+    line-height: 1.1rem;
+    font: 400;
+      margin: 35px;
+}  
+
+footer{
+    padding: 20px;
+    background: lightblue;
+    text-align: center;
+    margin: 25px;
+    border: #000, 9px, solid;
+}
+
+h3{
+    color: #000;
+    background: rgb(152, 202, 219);
+    padding: 20px;
+     /* border: rgb(84, 84, 174), solid, 2px; */
+}
+.Waxir{
+    background: rgb(153, 149, 149);
+}
+/* .Waxir strong{ 
+    color: blue;
+}
+p  strong{
+    color: blue;
+}*/
+body  strong{ 
+     color: rgb(13, 13, 243);  
+    
+}
+.Aa{
+    border: 1px dotted red;
+}
+span{
+    color: aqua;
+}

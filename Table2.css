@@ -1,0 +1,26 @@
+table{
+   border: 2px blue solid;
+   background: lightblue;
+   border-collapse: collapse;
+   font-size: x-large; 
+}
+
+td {
+  border: 2px blue solid;
+  /* font-size: x-large; */
+}
+th{
+  border: 2px blue solid;
+  
+}
+caption{
+   size: 3rem;
+   background: rgb(135, 206, 206);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: xx-large;
+}
+tfoot{
+   background: rgb(135, 216, 216);
+   font-size: medium;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
